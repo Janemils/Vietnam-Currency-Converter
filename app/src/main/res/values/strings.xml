@@ -1,0 +1,9 @@
+<!-- Populating the currency dropdown -->
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string-array name="currency">
+        <item>INR</item>
+        <item>VND</item>
+        <item>USD</item>
+    </string-array>
+</resources>
